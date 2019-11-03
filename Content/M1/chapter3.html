@@ -4,21 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>คณิตศาสตร์ ม.ต้น</title>
-    <link rel="stylesheet" href="css/home.css">
-    <link rel="stylesheet" href="css/navbar.css">
+    <title>เลขยกกำลัง</title>
+    <link rel="stylesheet" href="../../css/navbar.css">
     <link href="https://fonts.googleapis.com/css?family=Kanit|Prompt|Roboto|Staatliches|Taviraj&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <link rel="stylesheet" href="../../css/content.css">
 </head>
 
 <body>
     <!--navbar-->
     <div class="navbar">
         <div class="home-icon">
-            <a href="index.html">
-                <img src="images/home.png">
+            <a href="../../index.html">
+                <img src="../../images/home.png">
             </a>
         </div>
         <div class="dropdown">
@@ -30,20 +29,20 @@
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-container">
-                    <a href="Content/M1/chapter1.html">บทที่ 1 สมบัติของจำนวนนับ</a>
-                    <a href="Content/M1/chapter2.html">บทที่ 2 จำนวนเต็ม</a>
-                    <a href="Content/M1/chapter3.html">บทที่ 3 เลขยกกำลัง</a>
-                    <a href="Content/M1/chapter4.html">บทที่ 4 พื้นฐานทางเรขาคณิต</a>
+                    <a href="chapter1.html">บทที่ 1 สมบัติของจำนวนนับ</a>
+                    <a href="chapter2.html">บทที่ 2 จำนวนเต็ม</a>
+                    <a href="#">บทที่ 3 เลขยกกำลัง</a>
+                    <a href="chapter4.html">บทที่ 4 พื้นฐานทางเรขาคณิต</a>
                 </div>
                 <button class="dropdown-btn">เทอม 2
                     <i class="fa fa-caret-down"></i>
                 </button>
                 <div class="dropdown-container">
-                    <a href="Content/M1/chapter5.html">บทที่ 1 ทศนิยมและเศษส่วน</a>
-                    <a href="Content/M1/chapter6.html">บทที่ 2 การประมาณค่า</a>
-                    <a href="Content/M1/chapter7.html">บทที่ 3 คู่อันดับและกราฟ</a>
-                    <a href="Content/M1/chapter8.html">บทที่ 4 สมการเชิงเส้นตัวแปรเดียว</a>
-                    <a href="Content/M1/chapter9.html">บทที่ 5 ความสัมพันธ์ระหว่างรูปเรขาคณิตสองมิติและสามมิติ</a>
+                    <a href="chapter5.html">บทที่ 1 ทศนิยมและเศษส่วน</a>
+                    <a href="chapter6.html">บทที่ 2 การประมาณค่า</a>
+                    <a href="chapter7.html">บทที่ 3 คู่อันดับและกราฟ</a>
+                    <a href="chapter8.html">บทที่ 4 สมการเชิงเส้นตัวแปรเดียว</a>
+                    <a href="chapter9.html">บทที่ 5 ความสัมพันธ์ระหว่างรูปเรขาคณิตสองมิติและสามมิติ</a>
                 </div>
             </div>
         </div>
@@ -108,49 +107,36 @@
             </div>
         </div>
     </div>
-    <script src="js/navbar.js"></script>
+    <script src="../../js/navbar.js"></script>
     <!--navbar-->
-    <div class="home-background"></div>
-    <img class="home-background-img" src="images/back.png" style="max-width:100%;height:auto;">
     <br><br><br>
-    <div class="text-bar">เนื้อหา</div>
-    <div class="menu">
-        <a class="item" href="Content/M1/"></a>
-        <a class="item" href="Content/M2/"></a>
-        <a class="item" href="Content/M3/"></a>
+    <div class="container">
+        <h1>บทที่ 3 เลขยกกำลัง</h1>
+        <div class="one-tab">
+            <p>เลขยกกำลังเป็นวิธีการเขียนตัวเลขแทนจำนวนวิธีหนึ่งที่เกิดจากการคูณกันซ้ำๆ เขียนอยู่ในรูป an ซึ่งประกอบด้วย
+                ฐาน a และ เลขชี้กำลัง n อ่านว่า a ยกกำลัง n</p>
+            <p>การยกกำลังมีความหมายเหมือนการคูณซ้ำ ๆ กัน คือ a คูณกันเป็นจำนวน n ตัว เมื่อ n เป็นจำนวนเต็มบวก</p>
 
-    </div>
-    <div class="text-bar">ข้อสอบ และเฉลย</div>
+            <p class="two-tab"> an = a x a x . . . x a โดยมี a ทั้งหมด n จำนวน</p>
 
-    <div class="slideshow-container">
+            <p>เทียบกับการคูณซึ่งมีความหมายเป็นการบวกซ้ำ ๆ กัน</p>
 
-        <div class="mySlides fade">
-            <div class="menu">
-                <a class="item" href="#"></a>
-                <a class="item" href="#"></a>
-                <a class="item" href="#"></a>
-            </div>
+            <p class="two-tab"> a x n = a + a + . . . + a โดยมี a ทั้งหมด n จำนวน</p>
+
+            <p>ตัวอย่าง</p>
+            <p class="two-tab"> 23 = 2 x 2 x 2 = 8</p>
         </div>
+        <p><b> กฎต่างๆ</b></p>
+        <p>ให้ a, b เป็นจำนวนใดๆ m, n เป็นจำนวนเต็มบวก</p>
+        <img src="images/c3-1.jpg" alt=""><br><br>
+        <img src="images/c3-2.jpg" alt=""><br><br>
+        <b>สมบัติต่างๆ</b><br>
+        <img src="images/c3-3.jpg" width="270px"><br><br><br>
+        <b>สัญกรณ์วิทยาศาสตร์</b><br><br>
+        <img src="images/c3-4.jpg" width="270px">
 
-        <div class="mySlides fade">
-            <div class="menu">
-                <box></box>
-                <a class="item" href="#"></a>
-                <box></box>
-            </div>
-        </div>
-
-        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
     </div>
-    <br>
-
-    <div style="text-align:center">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-    </div>
-    <script src="js/slide.js"></script>
 </body>
 
 </html>

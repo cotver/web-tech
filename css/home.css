@@ -15,6 +15,7 @@ body {
   z-index: -1;
 }
 .home-background-img{
+  
   display: block;
   margin: auto;
   position: relative;
@@ -37,7 +38,6 @@ body {
 .menu {
   display: block;
   flex-direction: column;
-  width: 100%;
   padding: .5em;
   margin-top: .5em;
   border-bottom: solid 1px;

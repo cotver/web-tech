@@ -1,0 +1,47 @@
+.container {
+    display: block;
+    width: 70%;
+    height: auto;
+    padding: 1em 3em 1em 3em;
+    margin: 0 auto 2em auto;
+    background: #fff;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.25);
+    border-radius: 15px;
+}
+.content {
+    background: rgb(247, 247, 247);
+    width: 18em;
+    height: 11.5em;
+    box-shadow: 0px 0px 2px rgba(0,0,0,0.3);
+    border-radius: 20px;
+    padding: .5em .5em 1px .5em;
+    display: inline-block;
+    position: relative;
+    vertical-align: top;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+    align-items: center;
+    text-align: center;
+    transition: .3s;
+}
+.text-box{
+    display: block;
+    padding: 20px;
+    background: yellow;
+    border-radius: 25px;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.paragraph{
+    text-indent: 1.5em;
+}
+.one-tab{
+    text-indent: 3em;
+}
+.two-tab{
+    text-indent: 6em;
+}
+img{
+    margin-left: 50px;
+}
