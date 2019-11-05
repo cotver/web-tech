@@ -97,7 +97,17 @@ box{
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
-
+.content-text {
+  background: #fff;
+  color: #000;
+  width: 100%;
+  height: 4.1em;
+  border-radius: 30px 30px 25px 25px;
+  bottom: 0%;
+  position: absolute;
+  margin-left: -8px;
+  transition: .5s;
+}
 .dot {
   cursor: pointer;
   height: 15px;
