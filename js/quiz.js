@@ -23,6 +23,10 @@ function slide(){
         ans.style.paddingBottom = "1em";
         ans.style.color = "black";
         ans.setAttribute("open", "1");
+        ans.style.display = "block";
+        ans.style.width = "50%";
+        ans.style.height = "auto";
+        
     }
     else{
         ans.style.lineHeight = "0";
@@ -30,6 +34,9 @@ function slide(){
         ans.style.paddingBottom = "0";
         ans.style.color = "transparent";
         ans.setAttribute("open", "0");
+        ans.style.width = "0";
+        ans.style.height = "0";
+      
     }
     
 }
@@ -91,6 +98,7 @@ function submit(){
 }
 function next(){
     me=0;
+    inp = "";
     choiceA.style.background = "#fff"
     choiceB.style.background = "#fff"
     choiceC.style.background = "#fff"
@@ -98,6 +106,7 @@ function next(){
     document.getElementById("submit").style.display = "block"
     document.getElementById("next").style.display = "none"
     document.getElementById("ans").style.display = "none"
+
     if(questions.length == counter+1){
         document.getElementById("centered").style.display = 'block';
         document.getElementById("centerer").innerHTML = "Your Score<br>" + score+"/"+ questions.length;
@@ -107,6 +116,8 @@ function next(){
     ans.style.paddingTop = "0";
     ans.style.paddingBottom = "0";
     ans.style.color = "transparent";
+    ans.style.width = "0";
+    ans.style.height = "0";
     ans.setAttribute("open", "0");
     quiz.innerHTML = questions[counter].question;
     No.innerHTML = counter+1+"/"+ questions.length;
