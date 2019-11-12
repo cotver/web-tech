@@ -1,0 +1,58 @@
+{
+    "title": "ทฤษฎีบทพีทาโกรัส",
+    "questions": [
+        {
+            "question": "1. จากรูป ความยาวมีหน่วยเป็นเซนติเมตร จงหาว่า เส้นรอบรูปสามเหลี่ยม ABC ยาวกี่เซนติเมตร",
+            "image": "<img src='images/6-1.jpg'>",
+            "choice1": "ก. 110 เซนติเมตร",
+            "choice2": "ข. 120 เซนติเมตร",
+            "choice3": "ค. 130 เซนติเมตร",
+            "choice4": "ง. 140 เซนติเมตร",
+            "answer": "ข.",
+            "solution": "<img src='images/6-6.jpg'><br><img src='images/6-7.jpg'>"
+        },
+        {
+            "question": "2. จากรูป ความยาวมีหน่วยเป็นเซนติเมตร จงหาว่า CD ยาวกี่เซนติเมตร",
+            "image": "<img src='images/6-2.jpg'>",
+            "choice1": "ก. 10 เซนติเมตร",
+            "choice2": "ข. 13 เซนติเมตร",
+            "choice3": "ค. 12 เซนติเมตร",
+            "choice4": "ง. 11 เซนติเมตร",
+            "answer": "ค.",
+            "solution": "<img src='images/6-21.jpg'><br><img src='images/6-22.jpg'><br><img src='images/6-23.jpg'>"
+        },
+
+        {
+            "question": "3.จากรูป ความยาวมีหน่วยเป็นเซนติเมตร AB = 4 เซนติเมตร จงหาว่า CD ยาวกี่เซนติเมตร",
+            "image": "<img src='images/6-3.jpg'>",
+            "choice1": "ก. 5 เซนติเมตร",
+            "choice2": "ข. 6 เซนติเมตร",
+            "choice3": "ค. 7 เซนติเมตร",
+            "choice4": "ง. 8 เซนติเมตร",
+            "answer": "ก.",
+            "solution": "<img src='images/6-31.jpg'><br><img src='images/6-32.jpg'><br><img src='images/6-33.jpg'><br><img src='images/6-34.jpg'>"
+        },
+
+        {
+            "question": "4. จากรูป ความยาวมีหน่วยเป็นเซนติเมตร สี่เหลี่ยมด้านขนาน ABCD มีพื้นที่กี่ตารางเซนติเมตร",
+            "image": "<img src='images/6-4.jpg'>",
+            "choice1": "ก. 210 ตารางเซนติเมตร",
+            "choice2": "ข. 220 ตารางเซนติเมตร",
+            "choice3": "ค. 230 ตารางเซนติเมตร",
+            "choice4": "ง. 240 ตารางเซนติเมตร",
+            "answer": "ง.",
+            "solution": "<img src='images/6-41.jpg'><br><img src='images/6-42.jpg'>"
+        },
+
+        {
+            "question": "5. จากรูป ความยาวมีหน่วยเป็นเซนติเมตร สามเหลี่ยม EDB มีพื้นที่กี่ตารางเซนติเมตร",
+            "image": "<img src='images/6-5.jpg'>",
+            "choice1": "ก. 10 ตารางเซนติเมตร",
+            "choice2": "ข. 20 ตารางเซนติเมตร",
+            "choice3": "ค. 30 ตารางเซนติเมตร",
+            "choice4": "ง. 40 ตารางเซนติเมตร",
+            "answer": "ค.",
+            "solution": "<img src='images/6-51.jpg'><br><img src='images/6-52.jpg'>"
+        }
+    ]
+}

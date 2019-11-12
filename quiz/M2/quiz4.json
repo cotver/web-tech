@@ -1,0 +1,58 @@
+{
+    "title": "การแปลงทางเรขาคณิต",
+    "questions": [
+        {
+            "question": "1. จงหาว่า a - b = กี่องศา",
+            "image": "<img src='images/4-1.jpg'>",
+            "choice1": "ก. 5°",
+            "choice2": "ข. 6°",
+            "choice3": "ค. 7°",
+            "choice4": "ง. 8°",
+            "answer": "ก.",
+            "solution": "<img src='images/4-6.jpg'>"
+        },
+        {
+            "question": "2. จากรูป มุม x = กี่องศา",
+            "image": "<img src='images/4-2.jpg'>",
+            "choice1": "ก. x = 40°",
+            "choice2": "ข. x = 50°",
+            "choice3": "ค. x = 60°",
+            "choice4": "ง. x = 70°",
+            "answer": "ข.",
+            "solution": "<img src='images/4-7.jpg'>"
+        },
+
+        {
+            "question": "3. มุม  AED = กี่องศา",
+            "image": "<img src='images/4-3.jpg'>",
+            "choice1": "ก. 220°",
+            "choice2": "ข. 200°",
+            "choice3": "ค. 110°",
+            "choice4": "ง. 100°",
+            "answer": "ง.",
+            "solution": "<img src='images/4-8.jpg'>"
+        },
+
+        {
+            "question": "4. ถ้า n = 8 แล้ว m มีค่าเท่าไร",
+            "image": "<img src='images/4-4.jpg'>",
+            "choice1": "ก. 10",
+            "choice2": "ข. 11",
+            "choice3": "ค. 12",
+            "choice4": "ง. 13",
+            "answer": "ข.",
+            "solution": "<img src='images/4-9.jpg'>"
+        },
+
+        {
+            "question": "5. จงหาว่ามุม  CAE = กี่องศา",
+            "image": "<img src='images/4-5.jpg'>",
+            "choice1": "ก. 20°",
+            "choice2": "ข. 40°",
+            "choice3": "ค. 30°",
+            "choice4": "ง. 90°",
+            "answer": "ค.",
+            "solution": "<img src='images/4-10.jpg'>"
+        }
+    ]
+}

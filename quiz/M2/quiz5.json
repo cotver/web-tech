@@ -1,0 +1,58 @@
+{
+    "title": "ความเท่ากันทุกประการ",
+    "questions": [
+        {
+            "question": "1. ข้อใดไม่ถูกต้อง",
+            "image": "<img src='images/5-1.jpg'>",
+            "choice1": "ก. มุม A = มุม D",
+            "choice2": "ข. มุม B = มุม F",
+            "choice3": "ค. มุม C = มุม E",
+            "choice4": "ง. มุม C = มุม D",
+            "answer": "ง.",
+            "solution": "เพราะ มุม C ไม่เท่ากับ มุม D"
+        },
+        {
+            "question": "2. ข้อใดไม่ถูกต้อง",
+            "image": "<img src='images/5-1.jpg'>",
+            "choice1": "ก. AC = DF",
+            "choice2": "ข. AB = FE",
+            "choice3": "ค. BC = FE",
+            "choice4": "ง. AB = DE",
+            "answer": "ข.",
+            "solution": "เพราะ มุม C ไม่เท่ากับ มุม D"
+        },
+
+        {
+            "question": "3. ข้อใดถูกต้อง",
+            "image": "<img src='images/5-1.jpg'>",
+            "choice1": "ก. มุม A = มุม F",
+            "choice2": "ข. มุม C = มุม E",
+            "choice3": "ค. มุม C = มุม F",
+            "choice4": "ง. มุม D = มุม E",
+            "answer": "ค.",
+            "solution": "เพราะ มุม C = มุม F"
+        },
+
+        {
+            "question": "4. ข้อใดไม่ถูกต้อง",
+            "image": "<img src='images/5-4.jpg'>",
+            "choice1": "ก. มุม A = มุม E",
+            "choice2": "ข. มุม B = มุม D",
+            "choice3": "ค. BC = CE",
+            "choice4": "ง. ABC = DEC",
+            "answer": "ก.",
+            "solution": "เพราะ มุม A ไม่เท่ากับ มุม E"
+        },
+
+        {
+            "question": "5. ข้อใดถูกต้อง",
+            "image": "<img src='images/5-4.jpg'>",
+            "choice1": "ก. ABC ไม่เท่ากับ DEC",
+            "choice2": "ข. มุม C มีขนาดเท่ากัน",
+            "choice3": "ค. มุม B = มุม E",
+            "choice4": "ง. BC ไม่เท่ากับ CE",
+            "answer": "ข.",
+            "solution": "เพราะ มุม C มีขนาดเท่ากัน"
+        }
+    ]
+}

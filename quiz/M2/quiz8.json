@@ -1,0 +1,58 @@
+{
+    "title": "การประยุกต์ของสมการเชิงเส้นตัวแปรเดียว",
+    "questions": [
+        {
+            "question": "1. 0= 3(3 – 2x) +5(x - 1)",
+            "image": "",
+            "choice1": "ก. x = 1",
+            "choice2": "ข. x = 2",
+            "choice3": "ค. x = 3",
+            "choice4": "ง. x = 4",
+            "answer": "ง.",
+            "solution": "0= 3(3 – 2x) +5(x - 1)<br>0=9 - 6x + 5x – 5<br>0=4-x<br>X = 4"
+        },
+        {
+            "question": "2. - 11y + 4(y- 3) + 6y = 4 y - 12",
+            "image": "",
+            "choice1": "ก. y = 0",
+            "choice2": "ข. y = 1",
+            "choice3": "ค. y = 2",
+            "choice4": "ง. y = 3",
+            "answer": "ก.",
+            "solution": "วิธีทำ<br>- 11y + 4(y- 3) + 6y = 4 y - 12<br>-11y + 4 y - 12 + 6y = 4 y -12<br>-y - 12 = 4 y – 12<br>-4y - y - 12 = -12<br>-5 y - 12 = -12<br>-5 y = - 12 + 12<br>-5y = 0<br>y = 0"
+        },
+
+        {
+            "question": "3. 2(x – 3) = x + 15",
+            "image": "",
+            "choice1": "ก. x = 20",
+            "choice2": "ข. x = 24",
+            "choice3": "ค. x = 28",
+            "choice4": "ง. x = 32",
+            "answer": "ข.",
+            "solution": "วิธีทำ<br>2(x – 3) = x + 15<br>2x – 6 = x+15<br>2x –x – 6 = 15<br>X – 6 = 15<br>X = 15 + 6<br>X = 21"
+        },
+
+        {
+            "question": "4. 4.5(2-3x) + 0.8.x = 2.3(x + 30)",
+            "image": "",
+            "choice1": "ก. x = -1",
+            "choice2": "ข. x = -2",
+            "choice3": "ค. x = -3",
+            "choice4": "ง. x = -4",
+            "answer": "ง.",
+            "solution": "วิธีทำ<br>4.5(2-3x) + 0.8.x = 2.3(x + 30)<br>9 – 13.5x + 0.8.x = 2.3x + 69<br>-12.7x – 2.3.x = 69 – 9<br>-15x = 60<br>X = -60/15<br>X = -4"
+        },
+
+        {
+            "question": "5. 0.12y - 1.6(y - 2) = 6.8 – 1.28y",
+            "image": "",
+            "choice1": "ก. y = 30",
+            "choice2": "ข. y = 40",
+            "choice3": "ค. y = 50",
+            "choice4": "ง. y = 60",
+            "answer": "ค.",
+            "solution": "วิธีทำ<br>0.12y - 1.6(y - 2) = 6.8 – 1.28y<br>0.12y - 1.6y - 3.2 +1.28y = 6.8<br>0.2y – 3.2 = 6.8<br>0.2y = 6.8 + 3.2<br>y = 10/0.2<br>y = 50"
+        }
+    ]
+}

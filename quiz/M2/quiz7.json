@@ -1,0 +1,48 @@
+{
+    "title": "ความรู้เบื้องต้นเกี่ยวกับจำนวนจริง",
+    "questions": [
+        {
+            "question": "1.",
+            "image": "<img src='images/7-1.jpg'>",
+            "choice1": "ก. เป็นจำนวนตรรกยะ",
+            "choice2": "ข. เป็นจำนวนอตรรกยะ",
+            "answer": "ก.",
+            "solution": "<img src='images/7-11.jpg'>"
+        },
+        {
+            "question": "",
+            "image": "<img src='images/7-2.jpg'>",
+            "choice1": "ก. เป็นจำนวนตรรกยะ",
+            "choice2": "ข. เป็นจำนวนอตรรกยะ",
+            "answer": "ข.",
+            "solution": "<img src='images/7-21.jpg'>"
+        },
+
+        {
+            "question": "",
+            "image": "<img src='images/7-3.jpg'>",
+            "choice1": "ก. เป็นจำนวนตรรกยะ",
+            "choice2": "ข. เป็นจำนวนอตรรกยะ",
+            "answer": "ข.",
+            "solution": "<img src='images/7-31.jpg'>"
+        },
+
+        {
+            "question": "",
+            "image": "<img src='images/7-4.jpg'>",
+            "choice1": "ก. เป็นจำนวนตรรกยะ",
+            "choice2": "ข. เป็นจำนวนอตรรกยะ",
+            "answer": "ก.",
+            "solution": "<img src='images/7-41.jpg'>"
+        },
+
+        {
+            "question": "",
+            "image": "<img src='images/7-5.jpg'>",
+            "choice1": "ก. เป็นจำนวนตรรกยะ",
+            "choice2": "ข. เป็นจำนวนอตรรกยะ",
+            "answer": "ก.",
+            "solution": "<img src='images/7-51.jpg'>"
+        }
+    ]
+}

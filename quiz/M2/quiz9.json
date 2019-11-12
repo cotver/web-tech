@@ -1,0 +1,58 @@
+{
+    "title": "เส้นขนาน",
+    "questions": [
+        {
+            "question": "1. เส้นตรง AB ขนานกับเส้นตรง CD มุม HGF = 46° มุม HEF = 40° จงหาว่า x + y เท่ากับกี่องศา",
+            "image": "<img src='images/9-1.jpg'>",
+            "choice1": "ก. 171 องศา",
+            "choice2": "ข. 172 องศา",
+            "choice3": "ค. 173 องศา",
+            "choice4": "ง. 174 องศา",
+            "answer": "ง.",
+            "solution": "<img src='images/9-11.jpg'>"
+        },
+        {
+            "question": "2. เส้นตรง AB ขนานกับเส้นตรง CD มุม MEG = 140° มุม CKS = 55° มุม EKG = กี่องศา",
+            "image": "<img src='images/9-2.jpg'>",
+            "choice1": "ก. 87 องศา",
+            "choice2": "ข. 89 องศา",
+            "choice3": "ค. 85 องศา",
+            "choice4": "ง. 83 องศา",
+            "answer": "ค.",
+            "solution": "<img src='images/9-21.jpg'>"
+        },
+
+        {
+            "question": "3. เส้นตรง AB ขนานกับเส้นตรง CDAE = BE มุม BCD = 50° มุม BEA = กี่องศา",
+            "image": "<img src='images/9-3.jpg'>",
+            "choice1": "ก. 77 องศา",
+            "choice2": "ข. 78 องศา",
+            "choice3": "ค. 79 องศา",
+            "choice4": "ง. 80 องศา",
+            "answer": "ง.",
+            "solution": "<img src='images/9-31.jpg'>"
+        },
+
+        {
+            "question": "4. เส้นตรง AB ขนานกับเส้นตรง CD เส้นตรง AC ขนานกับเส้นตรง BD มุม TVD = 34° มุม ABD = 76° 4a - 2b + 2c - d = ?",
+            "image": "<img src='images/9-4.jpg'>",
+            "choice1": "ก. 54",
+            "choice2": "ข. 55",
+            "choice3": "ค. 65",
+            "choice4": "ง. 64",
+            "answer": "ก.",
+            "solution": "<img src='images/9-41.jpg'>"
+        },
+
+        {
+            "question": "5. เส้นตรง AB ขนานกับเส้นตรง CD เส้นตรง AF ตั้งฉากกับเส้นตรง CE มุม FAE = 3x มุม ECD = 2x  มุม CEB = กี่องศา",
+            "image": "<img src='images/9-5.jpg'>",
+            "choice1": "ก. 154 องศา",
+            "choice2": "ข. 144 องศา",
+            "choice3": "ค. 145 องศา",
+            "choice4": "ง. 165 องศา",
+            "answer": "ข.",
+            "solution": "<img src='images/9-51.jpg'>"
+        }
+    ]
+}
