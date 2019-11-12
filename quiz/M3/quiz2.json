@@ -1,0 +1,112 @@
+{
+    "title": "กราฟ",
+    "questions": [
+        {
+            "question": "1. กราฟของสมการ 5x + 4y –20 = 0 ตัดแกน y ที่จุดใด ",
+            "image": "",
+            "choice1": "ก. (5, 0)",
+            "choice2": "ข. (-4, 0)",
+            "choice3": "ค. (0, 5)",
+            "choice4": "ง. (0, -4)",
+            "answer": "ค.",
+            "solution": "<img src='images/2-1ans.jpg'>"
+        },
+        {
+            "question": "2. ถ้ากราฟของสมการ 5x – y = 2k ผ่านจุด (1, 1) แล้ว k มีค่าเท่าไร ",
+            "image": "",
+            "choice1": "ก. -1",
+            "choice2": "ข. 1",
+            "choice3": "ค. -2",
+            "choice4": "ง. 2",
+            "answer": "ง.",
+            "solution": "<img src='images/2-2ans.jpg'>"
+        },
+
+        {
+            "question": "3. สมการเส้นตรงใดที่ลากผ่านจุด (-5, 4) และ ขนานกับแกน y ",
+            "image": "",
+            "choice1": "ก. x = 4",
+            "choice2": "ข. x = 5",
+            "choice3": "ค. x = -4",
+            "choice4": "ง. x = -5",
+            "answer": "ง.",
+            "solution": "<img src='images/2-3.jpg'>"
+        },
+
+        {
+            "question": "4. สมการของกราฟที่ผ่านจุด (-1, -1) และ (-3, 5) คือข้อใด ",
+            "image": "",
+            "choice1": "ก. y + 3x + 4 = 0",
+            "choice2": "ข. y – 3x – 4 = 0",
+            "choice3": "ค. y – 3x + 4 = 0",
+            "choice4": "ง. y + 3x – 4 = 0",
+            "answer": "ก.",
+            "solution": "เนื่องจาก แทน (-1, 1) และ (-3, 5) ลงในสมการ y + 3x + 4 = 0 แล้วเป็นจริง<br><img src='images/2-4.jpg'>"
+        },
+
+        {
+            "question": "5. ถ้าจุด (-3, 2) อยู่บนเส้นตรงที่กำหนดด้วยสมการ 3x + ky = 5 แล้ว k มีค่าเท่าใด ",
+            "image": "",
+            "choice1": "ก. 7",
+            "choice2": "ข. 2",
+            "choice3": "ค. -2",
+            "choice4": "ง. -7",
+            "answer": "ก.",
+            "solution": "<img src='images/2-5.jpg'>"
+        },
+
+        {
+            "question": "6. จุดใดไม่อยู่บนกราฟของสมการ y = 3x -7 ",
+            "image": "",
+            "choice1": "ก. จุด (-1 , -10)",
+            "choice2": "ข. จุด (-3 , -2)",
+            "choice3": "ค. จุด (0, -7)",
+            "choice4": "ง. จุด (2 ,-1)",
+            "answer": "ข.",
+            "solution": "เนื่องจาก แทน (-3 , -2)ลงในสมการ y = 3x -7 แล้วไม่เป็นจริง<br><img src='images/2-6.jpg'>"
+        },
+
+        {
+            "question": "7. กราฟของ x = 2 และ 3x + 5y = 1 ตัดกันที่จุดใด ",
+            "image": "",
+            "choice1": "ก. (2, 1)",
+            "choice2": "ข. (2, -1)",
+            "choice3": "ค. (-1, 2)",
+            "choice4": "ง. (2, -2)",
+            "answer": "ข.",
+            "solution": "<img src='images/2-7.jpg'>"
+        },
+
+        {
+            "question": "8. ค่า k มีค่าเท่าไร ถ้าจุด (5, k) อยู่บนกราฟ ของ สมการ 2y = 12 – x",
+            "image": "",
+            "choice1": "ก. 3.0",
+            "choice2": "ข. 3.5",
+            "choice3": "ค. 4.0",
+            "choice4": "ง. 4.5",
+            "answer": "ข.",
+            "solution": "<img src='images/2-8.jpg'>"
+        },
+
+        {
+            "question": "9. จากสมการ y = ax + b ถ้าสมการ 2 สมการ มีค่า a เท่ากัน จะได้กราฟมีลักษณะอย่างไร ",
+            "image": "",
+            "choice1": "ก. ขนานกัน",
+            "choice2": "ข. ตัดกันที่จุด  (0,  0)",
+            "choice3": "ค. ตั้งฉากกัน",
+            "choice4": "ง. ต่างก็ขนานกับแกน  x",
+            "answer": "ก.",
+            "solution": "เนื่องจากทั้ง2 สมการมีความชันเท่ากัน"
+        },
+        {
+            "question": "10. กราฟของสมการ 2x - 5y = 9 และ 3x - y = 7 ตัดกันใน quadrant ใด ",
+            "image": "",
+            "choice1": "ก. ที่ 1",
+            "choice2": "ข. ที่ 2",
+            "choice3": "ค. ที่ 3",
+            "choice4": "ง. ที่ 4",
+            "answer": "ค.",
+            "solution": "จากรูป 2สมการตัดกันใน quadrant ที่4<br><img src='images/2-10.jpg'>"
+        }
+    ]
+}

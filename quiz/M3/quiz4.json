@@ -1,0 +1,115 @@
+{
+    "title": "ความคล้าย",
+    "questions": [
+        {
+            "question": "1. รูปสามเหลี่ยมสองรูปที่คล้ายกันมีลักษณะอย่างไร ",
+            "image": "",
+            "choice1": "ก. มีพื้นที่เท่ากัน",
+            "choice2": "ข. มีมุมเท่ากันสามคู่",
+            "choice3": "ค. มีความยาวของเส้นรอบรูปเท่ากัน",
+            "choice4": "ง. มีความยาวของฐานและเส้นรอบรูปเท่ากัน ",
+            "answer": "ข.",
+            "solution": ""
+        },
+
+        {
+            "question": "2. ข้อใดต่อไปนี้ถูกต้อง ",
+            "image": "",
+            "choice1": "ก. รูปสามเหลี่ยมใด ๆ ทุกรูปคล้ายกัน ",
+            "choice2": "ข. รูปสี่เหลี่ยมด้านขนานสองรูปใด ๆ เป็นรูปที่คล้ายกัน ",
+            "choice3": "ค. รูปหกเหลี่ยมด้านเท่าสองรูปใด ๆ เป็นรูปที่คล้ายกัน ",
+            "choice4": "ง. รูปสามเหลี่ยมหน้าจั่วที่มีขนาดมุมยอดเท่ากันสองรูปใด ๆ เป็นรูปที่คล้ายกัน ",
+            "answer": "ง.",
+            "solution": ""
+        },
+
+        {
+            "question": "3.ถ้า สามเหลี่ยม MNO ~ สามเหลี่ยม POQ แล้วข้อใดถูกต้อง",
+            "image": "<img src='images/4-3q.jpg'>",
+            "choice1": "ก. <img src='images/4-3-1.jpg'>",
+            "choice2": "ข. <img src='images/4-3-2.jpg'>",
+            "choice3": "ค. <img src='images/4-3-3.jpg'>",
+            "choice4": "ง. <img src='images/4-3-4.jpg'>",
+            "answer": "ง.",
+            "solution": ""
+        },
+
+        {
+            "question": " 4.จากรูป จะต้องกำหนดสิ่งใด จึงจะทำให้ สามเหลี่ยม ABC ~ สามเหลี่ยม DEC ",
+            "image": "img src='images/4-4q.jpg'>",
+            "choice1": "ก. AB // DE",
+            "choice2": "ข. กำหนดขนาดของมุม C",
+            "choice3": "ค. ความยาวของด้าน AB และ DE",
+            "choice4": "ง. ให้มุม B เป็นมุมฉาก",
+            "answer": "ก.",
+            "solution": "เนื่องจาก ถ้าทำให้ AB ขนานกับ DE จะทำให้มุม CDE = CAB และ CED = CBA"
+        },
+
+        {
+            "question": "5.กำหนดให้ BC // LM ความยาวของด้าน BC มีค่าเท่ากับกี่หน่วย",
+            "image": "img src='images/4-5q.jpg'>",
+            "choice1": "ก. 10.5 หน่วย",
+            "choice2": "ข. 10 หน่วย",
+            "choice3": "ค. 9 หน่วย",
+            "choice4": "ง. 9.5 หน่วย",
+            "answer": "ก.",
+            "solution": "img src='images/4-5.jpg'>"
+        },
+
+        {
+            "question": "6. จากรูป QR // ST ข้อใดไม่ถูกต้อง",
+            "image": "img src='images/4-6q.jpg'>",
+            "choice1": "ก. img src='images/4-6-1.jpg'>",
+            "choice2": "ข. img src='images/4-6-2.jpg'>",
+            "choice3": "ค. img src='images/4-6-3.jpg'>",
+            "choice4": "ง. img src='images/4-6-4.jpg'>",
+            "answer": "ข.",
+            "solution": ""
+        },
+
+        {
+            "question": "7. จากรูป ABC เป็นสามเหลี่ยมใด ๆ EF // BC ถ้า AF : EF = 3 : 4 และ BC = 24 แล้ว AC เท่ากับข้อใด ",
+            "image": "img src='images/4-7q.jpg'>",
+            "choice1": "ก. 16 หน่วย",
+            "choice2": "ข. 18 หน่วย",
+            "choice3": "ค. 20 หน่วย",
+            "choice4": "ง. 22 หน่วย",
+            "answer": "ข.",
+            "solution": ""
+        },
+
+        {
+            "question": "8. จากรูป กำหนดให้ AB // DE ข้อใดต่อไปนี้ถูกต้อง",
+            "image": "img src='images/4-8q.jpg'>",
+            "choice1": "ก. BAC ≠ EDC",
+            "choice2": "ข. img src='images/4-8-2.jpg'>",
+            "choice3": "ค. img src='images/4-8-3.jpg'>",
+            "choice4": "ง. img src='images/4-8-4.jpg'>",
+            "answer": "ค.",
+            "solution": ""
+        },
+
+        {
+            "question": "9. จากรูปข้อใดต่อไปนี้ถูกต้อง ",
+            "image": "img src='images/4-9q.jpg'>",
+            "choice1": "ก. DE // BC",
+            "choice2": "ข. img src='images/4-9-2.jpg'>",
+            "choice3": "ค. img src='images/4-9-3.jpg'>",
+            "choice4": "ง. img src='images/4-9-4.jpg'>",
+            "answer": "ก.",
+            "solution": "เนื่องจาก ABCและ AED มีมุมทุกมุมเท่ากัน จึงทำให้สามเหลี่ยมทั้ง2รูปเป็นสามเหลี่ยมรูปคล้าย DE จึงขนานกับ BC"
+        },
+
+        {
+            "question": "10.กำหนดให้ สามเหลี่ยม ABC มี BAC  เป็นมุมฉาก มีด้าน AD ตั้งฉากกับ ด้าน BC ที่จุด D ข้อใดถูกต้อง",
+            "image": "img src='images/4-10q.jpg'>",
+            "choice1": "ก. img src='images/4-10-1.jpg'>",
+            "choice2": "ข. img src='images/4-10-2.jpg'>",
+            "choice3": "ค. img src='images/4-10-3.jpg'>",
+            "choice4": "ง. img src='images/4-10-4.jpg'>",
+            "answer": "ข.",
+            "solution": ""
+        }
+        
+    ]
+}

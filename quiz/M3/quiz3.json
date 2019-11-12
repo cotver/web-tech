@@ -1,0 +1,113 @@
+{
+    "title": "ระบบสมการเชิงเส้น",
+    "questions": [
+        {
+            "question": "1. จงแก้ระบบสมการ x + y = 35 และ x = y – 7",
+            "image": "",
+            "choice1": "ก. (21,14)",
+            "choice2": "ข. (-21,14)",
+            "choice3": "ค. (14,21)",
+            "choice4": "ง. (-14,21)",
+            "answer": "ค.",
+            "solution": "<img src='images/3-1.jpg'>"
+        },
+        {
+            "question": "2. จงแก้ระบบสมการ y = 5x+70 และ 8x - 3y = -14",
+            "image": "",
+            "choice1": "ก. (28,70)",
+            "choice2": "ข. (-28,70)",
+            "choice3": "ค. (28,-70)",
+            "choice4": "ง. (-28,-70)",
+            "answer": "ง.",
+            "solution": "<img src='images/3-2.jpg'>"
+        },
+
+        {
+            "question": "3. ในฟาร์มแห่งหนึ่งเลี้ยงไก่และหมู ซึ่งนับขาได้ 264 ขา และนับหัวได้ 89 หัว จงหาจำนวนของไก่และหมูว่ามีอย่างละเท่าใด",
+            "image": "",
+            "choice1": "ก. ไก่ 44 ตัว หมู 45 ตัว",
+            "choice2": "ข. ไก่ 46 ตัว หมู 43 ตัว",
+            "choice3": "ค. ไก่ 43 ตัว หมู 46 ตัว",
+            "choice4": "ง. ไก่ 45 ตัว หมู 44 ตัว",
+            "answer": "ง.",
+            "solution": "<img src='images/3-3.jpg'>"
+        },
+
+        {
+            "question": "4. กราฟของสมการใดขนานกับกราฟของ 3x-5y= 15",
+            "image": "",
+            "choice1": "ก. 6x – 10y = 45",
+            "choice2": "ข. 5x – 3y  = 20",
+            "choice3": "ค. 3x + 5y  = 12",
+            "choice4": "ง. 12x + 20y  = 15",
+            "answer": "ก.",
+            "solution": "<img src='images/3-4.jpg'>"
+        },
+
+        {
+            "question": "5. จุด (15 , 8) เป็นจุดตัดของเส้นตรงคู่ใด",
+            "image": "",
+            "choice1": "ก. x + y  =  32  และ  x – y  =  7",
+            "choice2": "ข. x + y  =  23  และ  x – y  =  7",
+            "choice3": "ค. x + y  =  7  และ  x – y  =  32",
+            "choice4": "ง. x + y  =  7  และ  x – y  =  23",
+            "answer": "ข.",
+            "solution": "<img src='images/3-5.jpg'>"
+        },
+
+        {
+            "question": "6. เส้นตรง 2 เส้นตัดกันที่จุด (1 , –1) ถ้าเส้นตรง เส้นหนึ่งมีสมการ 2x + 3y + 1 = 0 แล้ว อีกเส้นหนึ่งมีสมการอย่างไร",
+            "image": "",
+            "choice1": "ก. y   =  2x – 3",
+            "choice2": "ข. x – 3y   =  0",
+            "choice3": "ค. 3x – 4   =  2y",
+            "choice4": "ง. 2y   =  –7x + 6",
+            "answer": "ก.",
+            "solution": "<img src='images/3-6.jpg'>"
+        },
+
+        {
+            "question": "7. จงหาค่า x และ y ของระบบสมการ 2x + y + 1 = 12 และ x + y + 3 = 11",
+            "image": "",
+            "choice1": "ก. x  =  –3 , y  =  –5",
+            "choice2": "ข. x  =  3 , y  =  –5",
+            "choice3": "ค. x  =  –3 , y  =  5",
+            "choice4": "ง. x  =  3 , y  =  5",
+            "answer": "ง.",
+            "solution": "<img src='images/3-7.jpg'>"
+        },
+
+        {
+            "question": "8. กราฟของสมการ 2x + y = 15 และ 3y – 4x = 5 ตัดกันที่จุดใด",
+            "image": "",
+            "choice1": "ก. (2 , 3)",
+            "choice2": "ข. (4 , 7)",
+            "choice3": "ค. (6 , 4)",
+            "choice4": "ง. (6 , 8)",
+            "answer": "ข.",
+            "solution": "<img src='images/3-8.jpg'>"
+        },
+
+        {
+            "question": "กำหนดให้ (a , b) เป็นคำตอบของระบบ สมการ 2x – 7y = 16 และ 2x + y = 0 ค่าของ ab ตรงกับข้อใด",
+            "image": "",
+            "choice1": "ก. –2",
+            "choice2": "ข. -1",
+            "choice3": "ค. 1",
+            "choice4": "ง. 2",
+            "answer": "ก.",
+            "solution": "<img src='images/3-9.jpg'>"
+        },
+
+        {
+            "question": "10. ถ้า (c , d) เป็นคำตอบของระบบสมการ 3x – 2y = 6 และ 5x + 3y = 10 ค่าของ 2c – 3d ตรงกับข้อใด",
+            "image": "",
+            "choice1": "ก. -6",
+            "choice2": "ข. -4",
+            "choice3": "ค. 4",
+            "choice4": "ง. 6",
+            "answer": "ค.",
+            "solution": "<img src='images/3-10.jpg'>"
+        }
+    ]
+}
