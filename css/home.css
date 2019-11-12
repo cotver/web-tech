@@ -50,7 +50,7 @@ body {
   height: 10em;
   margin: .5em;
   padding: .75em;
-  border-radius: 7px;
+  border-radius: 10px;
   text-align: center;
   position: relative;
   display: inline-block;
@@ -58,6 +58,13 @@ body {
   background-color: rgba(0,0,0,0.05);
   color: rgba(1,1,1,0);
 }
+.item:hover {
+  box-shadow: 0px 0px 30px rgb(228, 33, 33);
+  border-radius: 50px;
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(50%);
+  }
+
 box{
   width: 15em;
   height: 10em;

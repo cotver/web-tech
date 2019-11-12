@@ -17,6 +17,7 @@ a{
     text-decoration: none;
 }
 .content {
+    transition: 0.2s;
     background: rgb(247, 247, 247);
     width: 18em;
     height: 11.5em;
@@ -32,6 +33,7 @@ a{
     text-align: center;
 }
 .content:hover {
+    border-radius: 50px;
     box-shadow: 0px 0px 50px rgba(255, 175, 175, 0.534);
 }
 .box-no{
@@ -154,12 +156,12 @@ a{
 #answer{
     width: 0;
     height: 0;
-  background: #fff;
-  overflow: hidden;
-  transition: all .5s ease-in-out;
-  line-height: 0;
-  padding: 0 1em;
-  color: transparent;
+    background: #fff;
+    overflow: hidden;
+    transition: all .5s ease-in-out;
+    line-height: 0;
+    padding: 0 1em;
+    color: transparent;
   
 }
 img{

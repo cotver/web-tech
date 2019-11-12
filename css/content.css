@@ -9,6 +9,7 @@
     border-radius: 15px;
 }
 .content {
+    transition: .2s;
     background: rgb(247, 247, 247);
     width: 18em;
     height: 11.5em;
@@ -24,7 +25,9 @@
     text-align: center;
 }
 .content:hover {
-    box-shadow: 0px 0px 50px rgba(255, 175, 175, 0.534);
+    border-radius: 50px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.534);
+    
 }
 
 .text-box{
