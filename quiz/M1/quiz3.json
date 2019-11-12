@@ -1,0 +1,114 @@
+{
+    "title": "เลขยกกำลัง",
+    "questions": [
+        {
+            "question": "1.",
+            "image": "<img src='images/3-1.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ค.",
+            "solution": "<img src='images/3-1ans.jpg'>"
+        },
+
+        {
+            "question": "2.",
+            "image": "<img src='images/3-2.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ง.",
+            "solution": "<img src='images/3-2ans.jpg'>"
+        },
+
+        {
+            "question": "3.",
+            "image": "<img src='images/3-3.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ง.",
+            "solution": "<img src='images/3-3ans.jpg'>"
+        },
+
+        {
+            "question": "4.",
+            "image": "<img src='images/3-4.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ข.",
+            "solution": "<img src='images/3-4ans.jpg'>"
+        },
+
+        {
+            "question": "5.",
+            "image": "<img src='images/3-5.jpg'>",
+            "choice1": "ก. 81",
+            "choice2": "ข. 82",
+            "choice3": "ค. 83",
+            "choice4": "ง. 84",
+            "answer": "ข.",
+            "solution": "<img src='images/3-5ans.jpg'>"
+        },
+
+        {
+            "question": "6. 0.0000001 เขียนให้อยู่ในรูปเลขฐาน 10 ได้อย่างไร",
+            "image": "",
+            "choice1": "ก. <img src='images/3-6-1.jpg'>",
+            "choice2": "ข. <img src='images/3-6-2.jpg'>",
+            "choice3": "ค. <img src='images/3-6-3.jpg'>",
+            "choice4": "ง. <img src='images/3-6-4.jpg'>",
+            "answer": "ง.",
+            "solution": "<img src='images/3-6ans.jpg'>"
+        },
+
+        {
+            "question": "7.",
+            "image": "<img src='images/3-7.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ก.",
+            "solution": "<img src='images/3-7ans.jpg'>"
+        },
+
+        {
+            "question": "8.",
+            "image": "<img src='images/3-8.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ง.",
+            "solution": "<img src='images/3-8ans.jpg'>"
+        },
+
+        {
+            "question": "9.",
+            "image": "<img src='images/3-9.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ค.",
+            "solution": "<img src='images/3-9ans.jpg'>"
+        },
+
+        {
+            "question": "10.",
+            "image": "<img src='images/3-10.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ค.",
+            "solution": "<img src='images/3-10ans.jpg'>"
+        }
+    ]
+}

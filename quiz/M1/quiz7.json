@@ -1,0 +1,60 @@
+{
+    "title": "คู่อันดับและกราฟ",
+    "questions": [
+        {
+            "question": "1. จุด  (3, -6)  อยู่ในควอดรันต์ใด",
+            "image": "",
+            "choice1": "ก. 1",
+            "choice2": "ข. 2",
+            "choice3": "ค. 3",
+            "choice4": "ง. 4",
+            "answer": "ง.",
+            "solution": "วิธีคิด<br>(3, -6)  อยู่ใน Q4 เพราะ ค่าใน Q4 จะเป็น (+, -)"
+        },
+
+        {
+            "question": "2. จุด  (-4, 8)  อยู่ในควอดรันต์ใด",
+            "image": "",
+            "choice1": "ก. 1",
+            "choice2": "ข. 2",
+            "choice3": "ค. 3",
+            "choice4": "ง. 4",
+            "answer": "ข.",
+            "solution": "วิธีคิด<br>(-4, 8)  อยู่ใน Q2 เพราะ ค่าใน Q2 จะเป็น (-, +)"
+        },
+
+        {
+            "question": "3.",
+            "image": "<img src='images/6-3.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ง.",
+            "solution": "วิธีคิด<br>จุด D แกน x = 4, y = 1 ต้องเป็น  (4,1)"
+        },
+
+        {
+            "question": "4.",
+            "image": "<img src='images/6-4.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ก.",
+            "solution": "วิธีคิด<br>คู่อันดับที่ถูกต้องจากแผนภาพคือ (1,10) คู่อันดับ หนึ่ง สิบ"
+        },
+
+        {
+            "question": "5.",
+            "image": "<img src='images/6-5.jpg'>",
+            "choice1": "ก. ",
+            "choice2": "ข. ",
+            "choice3": "ค. ",
+            "choice4": "ง. ",
+            "answer": "ค.",
+            "solution": "วิธีคิด<br>คู่อันดับที่ถูกต้องคือ (1,2) , (2,4) , (3,6) , (4,8)"
+        }
+        
+    ]
+}
